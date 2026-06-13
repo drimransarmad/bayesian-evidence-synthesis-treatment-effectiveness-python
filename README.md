@@ -234,6 +234,7 @@ PhD Statistical Consultant | Advanced Quantitative Modeling (R, Mplus, Python)
 Lecturer, Virtual University of Pakistan  
 
 Website: [drimransarmad.com](https://drimransarmad.com)
+
 LinkedIn: [linkedin.com/in/dr-imran-sarmad](https://www.linkedin.com/in/dr-imran-sarmad/)
 
 ## Public Repository Packaging Note
