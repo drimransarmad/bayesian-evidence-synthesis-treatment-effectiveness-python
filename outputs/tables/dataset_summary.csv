@@ -1,0 +1,2 @@
+dataset_name,clinical_context,comparison,trials_n,arm_level_records_n,control_participants,control_deaths,control_descriptive_mortality_pct,beta_blocker_participants,beta_blocker_deaths,beta_blocker_descriptive_mortality_pct,zero_cell_trials_n,continuity_correction_required
+blocker,Mortality outcomes after myocardial infarction,Beta blocker versus control,22,44,9849,985,10.0,10441,826,7.91,0,False

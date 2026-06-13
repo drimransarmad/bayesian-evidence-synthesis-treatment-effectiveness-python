@@ -1,0 +1,6 @@
+criterion,finding,implication
+Pooled treatment-effect stability,Pooled odds-ratio estimates remain close to 0.78 across conventional and Bayesian models,The direction of the pooled conclusion is not driven by one modeling framework
+Between-study variation,The hierarchical model estimates tau explicitly and supports trial-specific partial pooling,Random-effects modeling is preferred for cautious interpretation even when heterogeneity is modest
+Future-trial uncertainty,The future comparable-trial predictive interval crosses an odds ratio of 1,Average pooled benefit should not be interpreted as a guarantee for every future comparable study
+Prior sensitivity,"Primary, skeptical, and broader prior scenarios produce closely aligned pooled estimates",The substantive pooled conclusion is stable under reasonable alternative prior assumptions
+Sampling diagnostics,"The primary hierarchical model has zero divergences, R-hat values close to 1, and strong effective sample sizes",No immediate sampling correction is required

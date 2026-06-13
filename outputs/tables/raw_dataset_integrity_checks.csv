@@ -1,0 +1,10 @@
+check,observed,expected,passed
+Dataset contains 44 arm-level rows,44,44,True
+Dataset contains 22 unique trials,22,22,True
+Each trial contains exactly 2 arms,True,True,True
+Each trial contains one Control and one Beta Blocker arm,True,True,True
+No missing values are present,0,0,True
+All mortality event counts are non-negative,True,True,True
+Deaths do not exceed participants in any arm,True,True,True
+Participant totals are positive,True,True,True
+No duplicated trial-treatment rows are present,0,0,True

@@ -1,0 +1,6 @@
+model,chains,posterior_draws_per_chain,tuning_draws_per_chain,total_posterior_draws,divergences,maximum_r_hat,minimum_ess_bulk,minimum_ess_tail
+Bayesian fixed-effect model,4.0,2000.0,2000.0,8000.0,0,1.001137,8772.486859,4997.333102
+Bayesian hierarchical random-effects model,4.0,3000.0,3000.0,12000.0,0,1.002004,2646.762885,4027.651643
+Primary weakly informative prior,,,,,0,1.002004,2646.762885,4027.651643
+Skeptical treatment-effect prior,,,,,0,1.003753,1814.54235,2914.455395
+Broad treatment-effect and heterogeneity priors,,,,,0,1.001283,2307.431431,3205.660639

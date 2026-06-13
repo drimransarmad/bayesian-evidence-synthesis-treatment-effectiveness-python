@@ -1,0 +1,2 @@
+model,posterior_mean_odds_ratio,posterior_median_odds_ratio,posterior_interval_lower_95,posterior_interval_upper_95,probability_or_below_1_00,probability_or_below_0_90,probability_or_below_0_80
+Bayesian fixed-effect model,0.7724981175700277,0.7713403747376815,0.7019429139706084,0.8501195627982341,1.0,0.998875,0.770625

@@ -1,0 +1,5 @@
+probability_statement,posterior_probability
+Probability that beta blockers reduce mortality odds (OR < 1),1.0
+Probability of at least 10% lower mortality odds (OR < 0.90),0.998875
+Probability of at least 20% lower mortality odds (OR < 0.80),0.770625
+Probability of higher mortality odds (OR > 1),0.0

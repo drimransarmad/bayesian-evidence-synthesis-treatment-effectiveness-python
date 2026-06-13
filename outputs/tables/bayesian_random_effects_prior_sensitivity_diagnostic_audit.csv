@@ -1,0 +1,4 @@
+scenario,divergences,maximum_r_hat,minimum_ess_bulk,minimum_ess_tail
+Primary weakly informative prior,0,1.002004,2646.762885,4027.651643
+Skeptical treatment-effect prior,0,1.003753,1814.54235,2914.455395
+Broad treatment-effect and heterogeneity priors,0,1.001283,2307.431431,3205.660639

@@ -1,0 +1,2 @@
+quantity,posterior_predictive_mean,posterior_predictive_median,posterior_predictive_lower_95,posterior_predictive_upper_95,probability_future_or_below_1
+Predicted treatment odds ratio in a future comparable trial,0.7907733272668389,0.7785514063276825,0.5621086238159828,1.1024378753865554,0.9425833333333333

@@ -1,0 +1,3 @@
+framework,heterogeneity_parameter,estimate,interval_lower_95,interval_upper_95,interpretation
+Conventional random-effects benchmark,tau,0.0723402092347385,,,Paule-Mandel heterogeneity estimate on the log odds-ratio scale
+Bayesian hierarchical random-effects model,tau,0.12553,3.9e-05,0.264429,Posterior heterogeneity distribution on the log odds-ratio scale

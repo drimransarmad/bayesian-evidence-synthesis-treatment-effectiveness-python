@@ -1,0 +1,3 @@
+arm,observed_mortality_proportion,posterior_predictive_mean,posterior_predictive_median,posterior_predictive_lower_95,posterior_predictive_upper_95,observed_within_predictive_interval
+Control,0.10001015331505736,0.09996272464209566,0.09990862016448371,0.09198903441973805,0.10813280536095035,True
+Beta blocker,0.07911119624557035,0.07919932238291352,0.07920697251221147,0.07211952878076812,0.08639019251029595,True

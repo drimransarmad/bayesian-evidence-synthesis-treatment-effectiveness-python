@@ -1,0 +1,7 @@
+probability_statement,posterior_probability
+Probability that the pooled effect favours beta blockers (pooled OR < 1),0.9999166666666667
+Probability of at least 10% lower pooled mortality odds (pooled OR < 0.90),0.9864166666666667
+Probability of at least 20% lower pooled mortality odds (pooled OR < 0.80),0.6666666666666666
+Probability that a future comparable trial favours beta blockers (future OR < 1),0.9425833333333333
+Probability that heterogeneity exceeds 0.10 on the log odds-ratio scale (tau > 0.10),0.5896666666666667
+Probability that heterogeneity exceeds 0.20 on the log odds-ratio scale (tau > 0.20),0.16583333333333333

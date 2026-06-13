@@ -1,0 +1,2 @@
+model,chains,posterior_draws_per_chain,tuning_draws_per_chain,total_posterior_draws,divergences,maximum_r_hat,minimum_ess_bulk,minimum_ess_tail
+Bayesian fixed-effect model,4,2000,2000,8000,0,1.001137,8772.486859,4997.333102

@@ -1,0 +1,2 @@
+public_repository_files_n,public_repository_size_mib,largest_file_size_mib,files_over_25_mib_n,netcdf_files_remaining_n,notebook_present,main_readme_present,diagnostics_readme_present,public_package_ready
+77,8.87448787689209,2.575345993041992,0,0,True,True,True,True

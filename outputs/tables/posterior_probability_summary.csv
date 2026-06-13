@@ -1,0 +1,11 @@
+model,probability_statement,posterior_probability
+Bayesian fixed-effect model,Probability that beta blockers reduce mortality odds (OR < 1),1.0
+Bayesian fixed-effect model,Probability of at least 10% lower mortality odds (OR < 0.90),0.998875
+Bayesian fixed-effect model,Probability of at least 20% lower mortality odds (OR < 0.80),0.770625
+Bayesian fixed-effect model,Probability of higher mortality odds (OR > 1),0.0
+Bayesian hierarchical random-effects model,Probability that the pooled effect favours beta blockers (pooled OR < 1),0.9999166666666668
+Bayesian hierarchical random-effects model,Probability of at least 10% lower pooled mortality odds (pooled OR < 0.90),0.9864166666666668
+Bayesian hierarchical random-effects model,Probability of at least 20% lower pooled mortality odds (pooled OR < 0.80),0.6666666666666666
+Bayesian hierarchical random-effects model,Probability that a future comparable trial favours beta blockers (future OR < 1),0.9425833333333332
+Bayesian hierarchical random-effects model,Probability that heterogeneity exceeds 0.10 on the log odds-ratio scale (tau > 0.10),0.5896666666666667
+Bayesian hierarchical random-effects model,Probability that heterogeneity exceeds 0.20 on the log odds-ratio scale (tau > 0.20),0.1658333333333333

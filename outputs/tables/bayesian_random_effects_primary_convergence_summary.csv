@@ -1,0 +1,2 @@
+model,chains,posterior_draws_per_chain,tuning_draws_per_chain,total_posterior_draws,divergences,maximum_r_hat,minimum_ess_bulk,minimum_ess_tail
+Bayesian hierarchical random-effects model,4,3000,3000,12000,0,1.002004,2646.762885,4027.651643

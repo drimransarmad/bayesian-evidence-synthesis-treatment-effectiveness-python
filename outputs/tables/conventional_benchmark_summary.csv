@@ -1,0 +1,3 @@
+model,inference_method,pooled_log_odds_ratio,standard_error_log_odds_ratio,ci_lower_log_odds_ratio_95,ci_upper_log_odds_ratio_95,pooled_odds_ratio,or_ci_lower_95,or_ci_upper_95,tau_squared
+Fixed-effect inverse-variance benchmark,Normal approximation,-0.2599243849307413,0.05031166542163476,-0.35853343715937463,-0.16131533270210802,0.7711098911269816,0.698700262895956,0.8510236731976288,0.0
+Random-effects benchmark,Paule-Mandel tau-squared with modified Hartung-Knapp confidence interval,-0.25363187594492015,0.05461844564386971,-0.36721715168341684,-0.14004660020642343,0.7759774054236489,0.6926592165971693,0.8693177240695058,0.005233105872125756

@@ -1,0 +1,8 @@
+scenario,parameter,symbol,distribution,interpretation
+Primary weakly informative prior,Study-specific baseline log odds,alpha_study,"Normal(logit(0.10), 0.75)",Scale-aware weakly informative nuisance prior centered on a 10% control-arm mortality probability while retaining substantial study-level variation
+Primary weakly informative prior,Pooled treatment log odds ratio,mu,"Normal(0, 0.5)",Centered on no treatment effect while allowing a clinically meaningful range of comparative effects
+Primary weakly informative prior,Between-study heterogeneity,tau,HalfNormal(0.5),Allows heterogeneity while placing greater prior density on smaller values
+Skeptical sensitivity prior,Pooled treatment log odds ratio,mu,"Normal(0, 0.25)",Places more prior density near no comparative effect
+Skeptical sensitivity prior,Between-study heterogeneity,tau,HalfNormal(0.5),Retains the primary heterogeneity prior so the treatment-effect prior changes in isolation
+Broad sensitivity prior,Pooled treatment log odds ratio,mu,"Normal(0, 1.0)",Allows a substantially wider range of comparative effects
+Broad sensitivity prior,Between-study heterogeneity,tau,HalfNormal(1.0),Allows a broader range of between-study heterogeneity values

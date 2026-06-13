@@ -1,0 +1,3 @@
+parameter,symbol,initial_prior,refined_prior,reason_for_refinement
+Study-specific baseline log odds,alpha_study,"Normal(0, 2.5)","Normal(logit(0.10), 0.75)",Initial prior-predictive simulation generated excessively diffuse and clinically implausible aggregate mortality patterns
+Pooled treatment log odds ratio,mu,"Normal(0, 0.5)","Normal(0, 0.5)",No change: treatment-effect prior remains centered on no comparative effect

@@ -1,0 +1,6 @@
+model,model_family,core_assumption,odds_ratio_estimate,interval_lower_95,interval_upper_95,interval_type,heterogeneity_tau,future_trial_prediction_available,role_in_project
+Conventional fixed-effect benchmark,Frequentist,One common underlying treatment effect across included trials,0.7711098911269816,0.698700262895956,0.8510236731976288,95% confidence interval,0.0,False,Contextual benchmark
+Conventional random-effects benchmark,Frequentist,Treatment effects may vary across trials,0.7759774054236489,0.6926592165971693,0.8693177240695058,95% modified Hartung-Knapp confidence interval,0.07234020923473819,True,Contextual benchmark
+Bayesian fixed-effect model,Bayesian,One common underlying treatment effect across included trials,0.772498,0.699814,0.847703,95% posterior HDI,0.0,False,Bayesian reference model
+Bayesian hierarchical random-effects model,Bayesian,Trial-specific treatment effects vary around an overall pooled effect,0.782036,0.690953,0.884732,95% posterior HDI,0.12553,True,Primary interpretation model
+Future comparable-trial prediction,Bayesian predictive distribution,Prediction incorporates pooled-effect uncertainty and between-study heterogeneity,0.7785514063276825,0.5621086238159828,1.1024378753865554,95% posterior predictive interval,0.12553,True,Decision-oriented uncertainty summary
