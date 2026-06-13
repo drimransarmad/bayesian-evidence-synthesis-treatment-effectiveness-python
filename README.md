@@ -233,9 +233,8 @@ The pooled estimate should not be interpreted as universally applicable to every
 PhD Statistical Consultant | Advanced Quantitative Modeling (R, Mplus, Python)  
 Lecturer, Virtual University of Pakistan  
 
-Website: `https://drimransarmad.com`  
-LinkedIn: `https://www.linkedin.com/in/dr-imran-sarmad/`
-
+Website: [drimransarmad.com](https://drimransarmad.com)
+LinkedIn: [linkedin.com/in/dr-imran-sarmad](https://www.linkedin.com/in/dr-imran-sarmad/)
 
 ## Public Repository Packaging Note
 
